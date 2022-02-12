@@ -15,6 +15,6 @@
 7. filereadwrite  : 파일을 열어 읽고 쓰는 프로그램 제작, 파일의 특정 지점에서 읽고 쓰기 프로그램 제작
 8. signal         : 프로세스간 signal 전달 프로그램
 9. watchdog       : 3초간 시그널이 없으면 종료하는 프로그램
-10. socket
-11. exec
-12. protocol
+10. socket        : 리눅스 소켓 통신 구현 프로그램
+11. exec          : 프로세스 생성 후 다른 프로그램 실행 프로그램
+12. protocol      : 자체 제작 프로토콜 프로그램
