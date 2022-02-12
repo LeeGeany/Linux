@@ -6,4 +6,6 @@
 
 # Embedded_c
 
+4. str_parsing  : 문자열 관련 c언어 함수 제작
+
 # System Programming
