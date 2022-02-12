@@ -7,5 +7,7 @@
 # Embedded_c
 
 4. str_parsing  : 문자열 관련 c언어 함수 제작
+5. union        : C언어 union 연습
+6. DS1307       : DS1307 시계의 데이터 시트를 보고 레지스터에 들어오는 값을 확인하여 시간 출력 프로그램
 
 # System Programming
