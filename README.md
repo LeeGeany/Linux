@@ -16,3 +16,5 @@
 8. signal         : 프로세스간 signal 전달 프로그램
 9. watchdog       : 3초간 시그널이 없으면 종료하는 프로그램
 10. socket
+11. exec
+12. protocol
